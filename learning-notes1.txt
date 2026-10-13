@@ -4,3 +4,4 @@ My Software Development Project Learning Journey
 2. I configured my Git identity.
 3. I created my first GitHub repository.
 4. I learned how to clone a repository.
+5. I learned how to check my repository status using Git.
